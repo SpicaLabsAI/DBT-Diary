@@ -59,7 +59,7 @@ No subscription. No account required. Works entirely offline.
 
 | | |
 |--|--|
-| 🌐 **Website** | [dbt-diary-daily.github.io]([https://PLACEHOLDER.github.io/dbt-diary-daily/](https://spicalabsai.github.io/DBT-Diary/dbt-diary-card.html) |
+| 🌐 **Website** | [dbt-diary-daily.github.io](https://spicalabsai.github.io/DBT-Diary/dbt-diary-card.html )|
 | 🔒 **Privacy Policy** | [Privacy Policy](https://spicalabsai.github.io/DBT-Diary/privacy.html) |
 | 💬 **Support** | [Support & FAQ](https://spicalabsai.github.io/DBT-Diary/support.html) |
 | 📋 **DBT Diary Card** | [Landing page](https://spicalabsai.github.io/DBT-Diary/dbt-diary-card.html) |
